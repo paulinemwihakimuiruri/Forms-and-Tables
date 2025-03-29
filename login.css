@@ -1,0 +1,83 @@
+.container{
+    border: solid 1px grey;
+    height: 680px;
+    padding-left: 3%;
+    border-radius: 20px;
+    margin: 0 auto;
+    background: white;
+    display: flex;
+    max-width: 50%;
+    margin-top: 5%;  
+
+}
+.form{
+    padding-right: 5%;
+ 
+}
+input{
+    width: 90%;
+    padding: 12px 16px;
+    border-radius: 5px;
+    border: solid 1px;
+
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1612885488634-0a698136fed9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    font-family: Arial, sans-serif;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+h6{
+    display: flex;
+    justify-content: center;
+}
+.checkbox-container{
+    display: flex;
+    justify-content: center;
+    
+}
+.submit-button{
+    display: flex;
+    justify-content: center;
+    border-radius: 0px 20px 20px 0px;
+
+}
+.submit-button button{
+    background: none;
+    border: none;
+    background-color: purple;
+    width: 90%;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.icons{
+    display: flex;
+    gap: 150px;
+    padding-left: 5%;
+}
+.workout{
+    display: flex;
+    position: flex;
+    left: 10px;
+    border-radius: 20px;
+
+}
+.workout img{
+    border-radius: 0px 20px 20px 0px;
+}
+p1{
+    color: blueviolet;
+}
